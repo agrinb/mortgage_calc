@@ -22,3 +22,6 @@ DOWN_PAYMENT_PERCENTAGES.each do |down_payment_percentage|
     mortgage.down_payment, duration_in_years, apr,
     mortgage.monthly_payment, mortgage.total_interest_paid)
 end
+
+
+
